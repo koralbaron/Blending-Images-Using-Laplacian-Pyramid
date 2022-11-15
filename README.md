@@ -2,7 +2,7 @@
 ## Description
 Takes 2 images and smoothly blend each half of them together and saves the results
 ## Screenshots
-The 2 images we want to blend:
+### The 2 images we want to blend:
 Tiger Image             |  Lion Image
 :-------------------------:|:-------------------------:
 <img src="/example_results/tiger.jpg"  width="80%" height="80%"/> | <img src="example_results/lion3.jpg"  width="80%" height="80%"/>
@@ -12,7 +12,7 @@ Simple Blending             |  Smooth Blending
 :-------------------------:|:-------------------------:
 <img src="example_results/simple_marge.jpg"  width="80%" height="80%"/> | <img src="example_results/smooth_marge.jpg"  width="80%" height="80%"/>
 
-The 8 Levels Laplacian Pyramids the Tiger Image:
+### The 8 Levels Laplacian Pyramids the Tiger Image:
 
 
 <div style="display:flex">
@@ -39,7 +39,7 @@ The 8 Levels Laplacian Pyramids the Tiger Image:
      </div>
 </div>
 
-The  8 Levels Laplacian Pyramids the Lion Image:
+### The 8 Levels Laplacian Pyramids the Lion Image:
 
 
 <div style="display:flex">

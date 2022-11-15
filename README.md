@@ -1,4 +1,4 @@
-#  Blending_Images_Using_Laplacian_Pyramid
+#  Blending-Images-Using-Laplacian-Pyramid
 ## Description
 Takes 2 images and smoothly blend each half of them together and saves the results
 ## Screenshots

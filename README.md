@@ -7,7 +7,7 @@ Tiger Image             |  Lion Image
 :-------------------------:|:-------------------------:
 <img src="/example_results/tiger.jpg"  width="80%" height="80%"/> | <img src="example_results/lion3.jpg"  width="80%" height="80%"/>
 
-The blendings results:
+### The blendings results:
 Simple Blending             |  Smooth Blending
 :-------------------------:|:-------------------------:
 <img src="example_results/simple_marge.jpg"  width="80%" height="80%"/> | <img src="example_results/smooth_marge.jpg"  width="80%" height="80%"/>
